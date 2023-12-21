@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7158f6b4.css",
-    "main.js": "/static/js/main.e5ced274.js",
+    "main.css": "/static/css/main.e108d1d8.css",
+    "main.js": "/static/js/main.6c610c5a.js",
+    "static/media/zyro-image(1).png": "/static/media/zyro-image(1).5fd8a6cd4e55bfaadda4.png",
     "static/media/Screenshot 2023-12-15 at 19-30-20 Vite React.png": "/static/media/Screenshot 2023-12-15 at 19-30-20 Vite React.357520b2f714ac95a6bf.png",
     "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/desktop-PhotoRoom.png-PhotoRoom.png": "/static/media/desktop-PhotoRoom.png-PhotoRoom.f216d34d7d3a3f323762.png",
     "static/media/Screenshot 2023-12-15 at 20-03-05 React App.png": "/static/media/Screenshot 2023-12-15 at 20-03-05 React App.be70aad16d3a504c0c3d.png",
     "static/media/Screenshot 2023-12-15 at 17-05-13 React App.png": "/static/media/Screenshot 2023-12-15 at 17-05-13 React App.5eb51d33425051013fc4.png",
-    "static/media/sheila_inPixio.png": "/static/media/sheila_inPixio.01296735ed45c09f687a.png",
     "static/media/1(1).png": "/static/media/1(1).e24fb5207a96a677f7ee.png",
     "index.html": "/index.html",
-    "main.7158f6b4.css.map": "/static/css/main.7158f6b4.css.map",
-    "main.e5ced274.js.map": "/static/js/main.e5ced274.js.map"
+    "main.e108d1d8.css.map": "/static/css/main.e108d1d8.css.map",
+    "main.6c610c5a.js.map": "/static/js/main.6c610c5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7158f6b4.css",
-    "static/js/main.e5ced274.js"
+    "static/css/main.e108d1d8.css",
+    "static/js/main.6c610c5a.js"
   ]
 }
